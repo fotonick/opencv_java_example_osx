@@ -1,5 +1,7 @@
 This is the Java OpenCV example straight from the [official docs][1], but with
-pre-compiled libraries and usage instructions for OSX 10.9 (Mavericks).
+pre-compiled libraries and usage instructions for OSX 10.9 (Mavericks). It may
+be useful for others who want to borrow my jar and dylib since they should only
+depend on OSX system libraries.
 
 Compile:
 
