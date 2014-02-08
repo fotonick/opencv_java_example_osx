@@ -1,0 +1,6 @@
+This project contains source code and compiled products from the OpenCV project.
+The OpenCV project is licensed with the 3-clause BSD License:
+
+https://github.com/Itseez/opencv/blob/master/LICENSE
+
+My own contributions are also released under the identical license.
